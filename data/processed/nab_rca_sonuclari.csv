@@ -1,0 +1,32 @@
+anomali_zamani,dosya,anomali_turu,kok_neden_servis,hata_sayisi,hata_mesaji,metrik_degeri,anomali_skoru
+2014-02-26 22:05:00,ec2_cpu_utilization_24ae8d.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (2.3%),2.344,1.0
+2014-02-27 17:15:00,ec2_cpu_utilization_24ae8d.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (0.6%),0.602,0.468
+2014-02-19 19:10:00,ec2_cpu_utilization_53ea38.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (2.1%),2.058,0.361
+2014-02-23 20:05:00,ec2_cpu_utilization_53ea38.csv,CPU Anomalisi,ec2-compute-service,0,CPUUtilizationHigh: CPU usage spike detected (2.0%),1.966,0.143
+2014-02-19 00:22:00,ec2_cpu_utilization_5f5533.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (62.1%),62.056,0.735
+2014-02-24 18:37:00,ec2_cpu_utilization_5f5533.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (34.8%),34.766,0.431
+2014-04-09 10:15:00,ec2_cpu_utilization_77c1ca.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (34.9%),34.866,0.391
+2014-04-15 15:44:00,ec2_cpu_utilization_825cc2.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (76.9%),76.874,0.434
+2014-04-16 03:34:00,ec2_cpu_utilization_825cc2.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (24.4%),24.432,0.861
+2014-04-15 00:49:00,ec2_cpu_utilization_ac20cd.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (88.2%),88.202,0.908
+2014-02-17 06:12:00,ec2_cpu_utilization_fe7f93.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (53.9%),53.922,0.609
+2014-02-22 00:02:00,ec2_cpu_utilization_fe7f93.csv,CPU Anomalisi,ec2-compute-service,1,CPUUtilizationHigh: CPU usage spike detected (99.7%),99.668,0.926
+2014-02-23 15:17:00,ec2_cpu_utilization_fe7f93.csv,CPU Anomalisi,ec2-compute-service,0,CPUUtilizationHigh: CPU usage spike detected (3.3%),3.3,0.042
+2014-03-10 21:09:00,ec2_disk_write_bytes_1ef3de.csv,Disk Anomalisi,ec2-storage-service,1,DiskWriteAnomaly: Unusual disk write pattern (427032000 bytes),427032000.0,0.846
+2014-04-09 01:30:00,ec2_disk_write_bytes_c0d644.csv,Disk Anomalisi,ec2-storage-service,1,DiskWriteAnomaly: Unusual disk write pattern (591730000 bytes),591730000.0,0.702
+2014-04-10 14:35:00,ec2_disk_write_bytes_c0d644.csv,Disk Anomalisi,ec2-storage-service,1,DiskWriteAnomaly: Unusual disk write pattern (863964000 bytes),863964000.0,0.931
+2014-04-13 03:00:00,ec2_disk_write_bytes_c0d644.csv,Disk Anomalisi,ec2-storage-service,0,DiskWriteAnomaly: Unusual disk write pattern (0 bytes),0.0,0.009
+2014-04-15 16:44:00,ec2_network_in_257a54.csv,Network Anomalisi,ec2-network-service,1,NetworkInAnomaly: Abnormal network traffic (13429000 bytes),13429000.0,0.375
+2014-03-10 18:56:00,ec2_network_in_5abac7.csv,Network Anomalisi,ec2-network-service,1,NetworkInAnomaly: Abnormal network traffic (6519420 bytes),6519420.0,0.827
+2014-03-12 21:01:00,ec2_network_in_5abac7.csv,Network Anomalisi,ec2-network-service,1,NetworkInAnomaly: Abnormal network traffic (8285420 bytes),8285420.0,1.0
+2014-04-12 17:24:00,elb_request_count_8c0756.csv,ELB Anomalisi,load-balancer-service,1,ELBRequestSpike: Abnormal request count (145 req),145.0,0.401
+2014-04-22 19:34:00,elb_request_count_8c0756.csv,ELB Anomalisi,load-balancer-service,1,ELBRequestSpike: Abnormal request count (656 req),656.0,1.0
+2014-01-20 08:30:00,grok_asg_anomaly.csv,ASG Anomalisi,autoscaling-service,0,ASGScalingAnomaly: Unexpected autoscaling event,30.769,0.239
+2014-01-21 10:45:00,grok_asg_anomaly.csv,ASG Anomalisi,autoscaling-service,1,ASGScalingAnomaly: Unexpected autoscaling event,45.623,0.527
+2014-01-29 00:45:00,grok_asg_anomaly.csv,ASG Anomalisi,autoscaling-service,1,ASGScalingAnomaly: Unexpected autoscaling event,1.334,0.99
+2013-10-10 09:35:00,iio_us-east-1_i-a2eb1cd9_NetworkIn.csv,Bilinmeyen Anomali,network-interface-service,1,NetworkInterfaceAnomaly: Interface traffic spike (46141498 bytes),46141497.6,0.87
+2013-10-10 20:40:00,iio_us-east-1_i-a2eb1cd9_NetworkIn.csv,Bilinmeyen Anomali,network-interface-service,1,NetworkInterfaceAnomaly: Interface traffic spike (13757010 bytes),13757010.4,0.537
+2014-02-25 07:15:00,rds_cpu_utilization_cc0c53.csv,CPU Anomalisi,rds-database-service,1,RDSCPUHigh: Database CPU overload (25.1%),25.103,1.0
+2014-02-27 00:50:00,rds_cpu_utilization_cc0c53.csv,CPU Anomalisi,rds-database-service,1,RDSCPUHigh: Database CPU overload (19.2%),19.165,0.475
+2014-04-13 06:52:00,rds_cpu_utilization_e47b3b.csv,CPU Anomalisi,rds-database-service,1,RDSCPUHigh: Database CPU overload (76.2%),76.23,0.981
+2014-04-18 23:27:00,rds_cpu_utilization_e47b3b.csv,CPU Anomalisi,rds-database-service,1,RDSCPUHigh: Database CPU overload (25.1%),25.11,0.405
